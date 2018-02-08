@@ -16,8 +16,10 @@ We all walked away feeling like we helped in some small way & we hope the respon
 I have included all the names, emails & linkedin profiles of the Robert Half recruiters & account executives that spoke last night, so please feel free to share this with the group & tell the attendee’s to reach out at anytime! 
 
 
-NAME:                               EMAIL:                                                                   Linkedin Profile: 
-Lauren Roberti               lauren.roberti@rht.com                                 https://www.linkedin.com/in/lauren-roberti-409a5321/
+- Lauren Roberti
+- - lauren.roberti@rht.com
+- - https://www.linkedin.com/in/lauren-roberti-409a5321/
+
 Morgan Boyles               morgan.boyles@rht.com                               https://www.linkedin.com/in/morgan-boyles-972288138/
 Macey Miller                   macey.miller@rht.com                                   https://www.linkedin.com/in/macey-miller-58486225/
 Casey Lang                       casey.lang@rht.com                                        https://www.linkedin.com/in/casey-lang-5ab43767/
