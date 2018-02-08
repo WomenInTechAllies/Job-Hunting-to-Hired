@@ -17,19 +17,19 @@ I have included all the names, emails & linkedin profiles of the Robert Half rec
 
 
 - Lauren Roberti
- - lauren.roberti@rht.com
- - https://www.linkedin.com/in/lauren-roberti-409a5321/
+  - lauren.roberti@rht.com
+  - https://www.linkedin.com/in/lauren-roberti-409a5321/
 - Morgan Boyles
- - morgan.boyles@rht.com
- - https://www.linkedin.com/in/morgan-boyles-972288138/
+  - morgan.boyles@rht.com
+  - https://www.linkedin.com/in/morgan-boyles-972288138/
 - Macey Miller
- - macey.miller@rht.com
- - https://www.linkedin.com/in/macey-miller-58486225/
+  - macey.miller@rht.com
+  - https://www.linkedin.com/in/macey-miller-58486225/
 - Casey Lang
- - casey.lang@rht.com
- - https://www.linkedin.com/in/casey-lang-5ab43767/
+  - casey.lang@rht.com
+  - https://www.linkedin.com/in/casey-lang-5ab43767/
 - Hayden Books
- - hayden.brooks@creativegroup.com
- - https://www.linkedin.com/in/haydenbrooks/
+  - hayden.brooks@creativegroup.com
+  - https://www.linkedin.com/in/haydenbrooks/
 
 
